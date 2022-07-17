@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Angular, NodeJS** and **Typescript**.
 
-- 👯 I’m looking to collaborate on **data science or web development projects**.
-
 - 💬 Proficient in **Python, Flask** and **Pandas**.
 
 - 📄 Check out my [CV](https://mnf.red/geo/timeline).
