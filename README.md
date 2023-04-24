@@ -3,11 +3,11 @@
 
  <div align="center"><img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" /></div>
  
-- 🔭 I’m currently working on **my web development and data science skills**. 
+- 🔭 I’m currently working on my **data engineering** skills. 
 
-- 🌱 I’m currently learning **Angular, NodeJS** and **Typescript**.
+- 🌱 I’m currently learning **Apache Spark**, **Databricks** and **Azure Cloud**.
 
-- 💬 Proficient in **Python, Flask** and **Pandas**.
+- 💬 Proficient in **Python**, **NodeJS** and **Pandas**.
 
 - 📄 Check out my [CV](https://mnf.red/geo/timeline).
 
